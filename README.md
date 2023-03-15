@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on upskilling in Networking
-- 🌱 I’m currently learning Azure and AWS
+- 🌱 I’m currently learning Azure, Microsoft 365, and AWS
 - 🤔 I’m looking for help with CCNA
 - 💬 Ask me about Magic the Gathering
 - 😄 Pronouns: He/Him
